@@ -10,4 +10,8 @@
         <property name="userName" value="Hiren Patel"></property>
     </bean>
 
+    <bean id="studentBean" class="com.springsample.models.Student">
+        <property name="nickName" value="AndroidStudent1"></property>
+    </bean>
+
 </beans>
