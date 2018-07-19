@@ -1,11 +1,11 @@
-package com.springsample;
+package com.springsample.readxmlbeandata;
 
-import com.springsample.models.Student;
-import com.springsample.models.User;
+import com.springsample.readxmlbeandata.models.Student;
+import com.springsample.readxmlbeandata.models.User;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
-public class HelloWorld {
+public class ReadXmlBeanData {
 
     public static void main(String[] args) {
         readUserData();

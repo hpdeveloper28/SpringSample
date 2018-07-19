@@ -1,4 +1,4 @@
-package com.springsample.models;
+package com.springsample.readxmlbeandata.models;
 
 public class User {
 
